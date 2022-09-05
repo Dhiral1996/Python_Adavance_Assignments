@@ -1,2 +1,2 @@
-# Python_Adavance_Assignments
-Python Adavance Assignments for ineuron
+# Python_Advance_Assignments
+Python Advance Assignments for ineuron
